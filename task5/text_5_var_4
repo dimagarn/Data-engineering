@@ -1,0 +1,586 @@
+  <table>
+         <tr>
+           <th>Company</th>
+           <th>Contact</th>
+           <th>Country</th>
+           <th>Price</th>
+           <th>Item</th>
+         </tr>
+         <tr>
+           <td>Smart Styles</td>
+           <td>+27203243917</td>
+           <td>Venezuela</td>
+           <td>25361₽</td>
+           <td>height</td>
+         </tr>
+<tr>
+           <td>Elite Elegance</td>
+           <td>+36600134042</td>
+           <td>Malta</td>
+           <td>22025₽</td>
+           <td>office</td>
+         </tr>
+<tr>
+           <td>Chic Boutique</td>
+           <td>+36493741852</td>
+           <td>Albania</td>
+           <td>14535₽</td>
+           <td>perception</td>
+         </tr>
+<tr>
+           <td>Urban Upmarket</td>
+           <td>+16530284005</td>
+           <td>The Gambia</td>
+           <td>70292₽</td>
+           <td>drama</td>
+         </tr>
+<tr>
+           <td>Modern Maven</td>
+           <td>+27890774211</td>
+           <td>Poland</td>
+           <td>70860₽</td>
+           <td>republic</td>
+         </tr>
+<tr>
+           <td>Fashion Fusion</td>
+           <td>+6450592375</td>
+           <td>Australia</td>
+           <td>97377₽</td>
+           <td>republic</td>
+         </tr>
+<tr>
+           <td>Nail Nook</td>
+           <td>+3571570207</td>
+           <td>Korea, South</td>
+           <td>79731₽</td>
+           <td>departure</td>
+         </tr>
+<tr>
+           <td>Classy Collections</td>
+           <td>+20285061881</td>
+           <td>Slovenia</td>
+           <td>45198₽</td>
+           <td>assumption</td>
+         </tr>
+<tr>
+           <td>Haute Hues</td>
+           <td>+71244119356</td>
+           <td>Saint Kitts and Nevis</td>
+           <td>93993₽</td>
+           <td>family</td>
+         </tr>
+<tr>
+           <td>Clipper Cuts</td>
+           <td>+1815738333</td>
+           <td>Bangladesh</td>
+           <td>19977₽</td>
+           <td>employee</td>
+         </tr>
+<tr>
+           <td>Sleek Styles</td>
+           <td>+77197615496</td>
+           <td>Paraguay</td>
+           <td>18544₽</td>
+           <td>selection</td>
+         </tr>
+<tr>
+           <td>Glamour Galore</td>
+           <td>+82426065249</td>
+           <td>Barbados</td>
+           <td>25181₽</td>
+           <td>steak</td>
+         </tr>
+<tr>
+           <td>Fashion Forward</td>
+           <td>+24701137172</td>
+           <td>Estonia</td>
+           <td>90787₽</td>
+           <td>signature</td>
+         </tr>
+<tr>
+           <td>Glow Getter</td>
+           <td>+26419418626</td>
+           <td>Cuba</td>
+           <td>78336₽</td>
+           <td>analyst</td>
+         </tr>
+<tr>
+           <td>Clipper Cuts</td>
+           <td>+55620733178</td>
+           <td>Grenada</td>
+           <td>62771₽</td>
+           <td>mixture</td>
+         </tr>
+<tr>
+           <td>Body Bliss</td>
+           <td>+1473686743</td>
+           <td>Namibia</td>
+           <td>46253₽</td>
+           <td>hat</td>
+         </tr>
+<tr>
+           <td>Fashion Fusion</td>
+           <td>+42816830212</td>
+           <td>Bhutan</td>
+           <td>87435₽</td>
+           <td>indication</td>
+         </tr>
+<tr>
+           <td>Modish Mannequins</td>
+           <td>+29557408152</td>
+           <td>Sao Tome and Principe</td>
+           <td>51600₽</td>
+           <td>mode</td>
+         </tr>
+<tr>
+           <td>Nail Nook</td>
+           <td>+30773364691</td>
+           <td>Ghana</td>
+           <td>98830₽</td>
+           <td>map</td>
+         </tr>
+<tr>
+           <td>Classy Collections</td>
+           <td>+97307183190</td>
+           <td>Norway</td>
+           <td>88604₽</td>
+           <td>woman</td>
+         </tr>
+<tr>
+           <td>Haute Hues</td>
+           <td>+90593896173</td>
+           <td>Malaysia</td>
+           <td>69538₽</td>
+           <td>homework</td>
+         </tr>
+<tr>
+           <td>Fine Fabrics</td>
+           <td>+4676849735</td>
+           <td>Turkey</td>
+           <td>86948₽</td>
+           <td>data</td>
+         </tr>
+<tr>
+           <td>Chic Boutique</td>
+           <td>+16387497606</td>
+           <td>Kosovo</td>
+           <td>51493₽</td>
+           <td>analyst</td>
+         </tr>
+<tr>
+           <td>Fashion Forward</td>
+           <td>+65346198343</td>
+           <td>Tonga</td>
+           <td>98830₽</td>
+           <td>preparation</td>
+         </tr>
+<tr>
+           <td>Chic Couture</td>
+           <td>+1778862290</td>
+           <td>Oman</td>
+           <td>80494₽</td>
+           <td>republic</td>
+         </tr>
+<tr>
+           <td>Nail Nook</td>
+           <td>+15715524447</td>
+           <td>Fiji</td>
+           <td>50457₽</td>
+           <td>contribution</td>
+         </tr>
+<tr>
+           <td>Sleek Styles</td>
+           <td>+32304319206</td>
+           <td>United States of America</td>
+           <td>84900₽</td>
+           <td>cookie</td>
+         </tr>
+<tr>
+           <td>Stellar Stitches</td>
+           <td>+6374002437</td>
+           <td>Italy</td>
+           <td>51906₽</td>
+           <td>advertising</td>
+         </tr>
+<tr>
+           <td>Chic Couture</td>
+           <td>+3212249876</td>
+           <td>Congo, Democratic Republic of the</td>
+           <td>84929₽</td>
+           <td>computer</td>
+         </tr>
+<tr>
+           <td>Wellness World</td>
+           <td>+47620719274</td>
+           <td>Syria</td>
+           <td>96732₽</td>
+           <td>refrigerator</td>
+         </tr>
+<tr>
+           <td>Brow Boosters</td>
+           <td>+52808332792</td>
+           <td>United Kingdom</td>
+           <td>86485₽</td>
+           <td>steak</td>
+         </tr>
+<tr>
+           <td>Fashion Forward</td>
+           <td>+72845155368</td>
+           <td>Estonia</td>
+           <td>95628₽</td>
+           <td>mode</td>
+         </tr>
+<tr>
+           <td>Elegant Ensembles</td>
+           <td>+20818651312</td>
+           <td>Tajikistan</td>
+           <td>44813₽</td>
+           <td>administration</td>
+         </tr>
+<tr>
+           <td>Lash Lounge</td>
+           <td>+57415131720</td>
+           <td>Slovakia</td>
+           <td>96504₽</td>
+           <td>signature</td>
+         </tr>
+<tr>
+           <td>Stellar Stitches</td>
+           <td>+43840335678</td>
+           <td>Libya</td>
+           <td>25751₽</td>
+           <td>nature</td>
+         </tr>
+<tr>
+           <td>Beauty Bar</td>
+           <td>+78304604343</td>
+           <td>Samoa</td>
+           <td>48982₽</td>
+           <td>series</td>
+         </tr>
+<tr>
+           <td>Lash Lounge</td>
+           <td>+46701102989</td>
+           <td>Korea, North</td>
+           <td>92301₽</td>
+           <td>contract</td>
+         </tr>
+<tr>
+           <td>Classy Collections</td>
+           <td>+24748417519</td>
+           <td>Botswana</td>
+           <td>45554₽</td>
+           <td>community</td>
+         </tr>
+<tr>
+           <td>Glamour Galore</td>
+           <td>+6537144453</td>
+           <td>Latvia</td>
+           <td>16337₽</td>
+           <td>nature</td>
+         </tr>
+<tr>
+           <td>Body Bliss</td>
+           <td>+49301339889</td>
+           <td>New Zealand</td>
+           <td>86300₽</td>
+           <td>affair</td>
+         </tr>
+<tr>
+           <td>Body Bliss</td>
+           <td>+32634994205</td>
+           <td>Qatar</td>
+           <td>59413₽</td>
+           <td>nature</td>
+         </tr>
+<tr>
+           <td>Elegant Ensembles</td>
+           <td>+23837057218</td>
+           <td>Iraq</td>
+           <td>47483₽</td>
+           <td>analyst</td>
+         </tr>
+<tr>
+           <td>Trendy Threads</td>
+           <td>+84226048900</td>
+           <td>Mauritania</td>
+           <td>70238₽</td>
+           <td>cookie</td>
+         </tr>
+<tr>
+           <td>Sophisticated Sewing</td>
+           <td>+38400638967</td>
+           <td>Moldova</td>
+           <td>94283₽</td>
+           <td>mode</td>
+         </tr>
+<tr>
+           <td>Skin Studio</td>
+           <td>+63531865518</td>
+           <td>Thailand</td>
+           <td>12770₽</td>
+           <td>construction</td>
+         </tr>
+<tr>
+           <td>Trendy Threads</td>
+           <td>+45462757456</td>
+           <td>Vatican City (Holy See)</td>
+           <td>96009₽</td>
+           <td>elevator</td>
+         </tr>
+<tr>
+           <td>Sleek Styles</td>
+           <td>+89405749526</td>
+           <td>Cyprus</td>
+           <td>34730₽</td>
+           <td>cookie</td>
+         </tr>
+<tr>
+           <td>Brow Boosters</td>
+           <td>+60815041140</td>
+           <td>Kosovo</td>
+           <td>19534₽</td>
+           <td>basket</td>
+         </tr>
+<tr>
+           <td>Sleek Styles</td>
+           <td>+93246410253</td>
+           <td>Belgium</td>
+           <td>50820₽</td>
+           <td>computer</td>
+         </tr>
+<tr>
+           <td>Urban Upmarket</td>
+           <td>+6411274714</td>
+           <td>Belgium</td>
+           <td>63323₽</td>
+           <td>thanks</td>
+         </tr>
+<tr>
+           <td>Dapper Designs</td>
+           <td>+29495121936</td>
+           <td>Bolivia</td>
+           <td>42930₽</td>
+           <td>newspaper</td>
+         </tr>
+<tr>
+           <td>Fine Fabrics</td>
+           <td>+38362062062</td>
+           <td>Burkina Faso</td>
+           <td>85743₽</td>
+           <td>data</td>
+         </tr>
+<tr>
+           <td>Clipper Cuts</td>
+           <td>+56873693718</td>
+           <td>Eritrea</td>
+           <td>71679₽</td>
+           <td>opinion</td>
+         </tr>
+<tr>
+           <td>Chic Couture</td>
+           <td>+99473803149</td>
+           <td>Bosnia and Herzegovina</td>
+           <td>43358₽</td>
+           <td>development</td>
+         </tr>
+<tr>
+           <td>Body Bliss</td>
+           <td>+63643703541</td>
+           <td>Thailand</td>
+           <td>82529₽</td>
+           <td>concept</td>
+         </tr>
+<tr>
+           <td>Body Bliss</td>
+           <td>+21619477247</td>
+           <td>Mauritius</td>
+           <td>21869₽</td>
+           <td>midnight</td>
+         </tr>
+<tr>
+           <td>Sophisticated Sewing</td>
+           <td>+4683226590</td>
+           <td>Sierra Leone</td>
+           <td>24458₽</td>
+           <td>basket</td>
+         </tr>
+<tr>
+           <td>Skin Studio</td>
+           <td>+68699458033</td>
+           <td>Belarus</td>
+           <td>60664₽</td>
+           <td>fishing</td>
+         </tr>
+<tr>
+           <td>Fashion Forward</td>
+           <td>+86290606931</td>
+           <td>Ireland</td>
+           <td>27181₽</td>
+           <td>contribution</td>
+         </tr>
+<tr>
+           <td>Urban Upmarket</td>
+           <td>+23852678103</td>
+           <td>Portugal</td>
+           <td>26247₽</td>
+           <td>death</td>
+         </tr>
+<tr>
+           <td>Modish Mannequins</td>
+           <td>+77235430782</td>
+           <td>Comoros</td>
+           <td>83944₽</td>
+           <td>advertising</td>
+         </tr>
+<tr>
+           <td>Crisp Creations</td>
+           <td>+90683665322</td>
+           <td>Chile</td>
+           <td>51689₽</td>
+           <td>elevator</td>
+         </tr>
+<tr>
+           <td>Urban Upmarket</td>
+           <td>+64424504806</td>
+           <td>Lithuania</td>
+           <td>10425₽</td>
+           <td>buyer</td>
+         </tr>
+<tr>
+           <td>Sophisticated Sewing</td>
+           <td>+52137749628</td>
+           <td>Argentina</td>
+           <td>61579₽</td>
+           <td>organization</td>
+         </tr>
+<tr>
+           <td>Trendsetting Tailors</td>
+           <td>+81828376722</td>
+           <td>Guinea-Bissau</td>
+           <td>66138₽</td>
+           <td>enthusiasm</td>
+         </tr>
+<tr>
+           <td>Classy Chic</td>
+           <td>+9774932681</td>
+           <td>Palau</td>
+           <td>82209₽</td>
+           <td>employee</td>
+         </tr>
+<tr>
+           <td>Lash Lounge</td>
+           <td>+92840506369</td>
+           <td>Switzerland</td>
+           <td>95534₽</td>
+           <td>refrigerator</td>
+         </tr>
+<tr>
+           <td>Posh Patterns</td>
+           <td>+45664428193</td>
+           <td>Latvia</td>
+           <td>16420₽</td>
+           <td>perception</td>
+         </tr>
+<tr>
+           <td>Salon Suites</td>
+           <td>+25874060710</td>
+           <td>Egypt</td>
+           <td>71741₽</td>
+           <td>oven</td>
+         </tr>
+<tr>
+           <td>Stellar Stitches</td>
+           <td>+73610010500</td>
+           <td>Andorra</td>
+           <td>28650₽</td>
+           <td>advertising</td>
+         </tr>
+<tr>
+           <td>Haute Hues</td>
+           <td>+17624989365</td>
+           <td>Uganda</td>
+           <td>70026₽</td>
+           <td>emphasis</td>
+         </tr>
+<tr>
+           <td>Stellar Stitches</td>
+           <td>+35723210875</td>
+           <td>Hungary</td>
+           <td>21575₽</td>
+           <td>ladder</td>
+         </tr>
+<tr>
+           <td>Skin Studio</td>
+           <td>+3258993625</td>
+           <td>Kiribati</td>
+           <td>37000₽</td>
+           <td>signature</td>
+         </tr>
+<tr>
+           <td>Modern Maven</td>
+           <td>+49770312514</td>
+           <td>Congo, Republic of the</td>
+           <td>74698₽</td>
+           <td>family</td>
+         </tr>
+<tr>
+           <td>Glamour Galore</td>
+           <td>+41229846139</td>
+           <td>Romania</td>
+           <td>18594₽</td>
+           <td>homework</td>
+         </tr>
+<tr>
+           <td>Posh Patterns</td>
+           <td>+66177171234</td>
+           <td>India</td>
+           <td>71105₽</td>
+           <td>cookie</td>
+         </tr>
+<tr>
+           <td>Fashion Forward</td>
+           <td>+41852552187</td>
+           <td>Cyprus</td>
+           <td>16855₽</td>
+           <td>pizza</td>
+         </tr>
+<tr>
+           <td>Urban Upmarket</td>
+           <td>+47692628440</td>
+           <td>Lithuania</td>
+           <td>56476₽</td>
+           <td>buyer</td>
+         </tr>
+<tr>
+           <td>Classy Collections</td>
+           <td>+89143993910</td>
+           <td>Kuwait</td>
+           <td>59387₽</td>
+           <td>mode</td>
+         </tr>
+<tr>
+           <td>Haute Hues</td>
+           <td>+72366464771</td>
+           <td>Colombia</td>
+           <td>65623₽</td>
+           <td>explanation</td>
+         </tr>
+<tr>
+           <td>Makeup Maven</td>
+           <td>+50888366696</td>
+           <td>Kyrgyzstan</td>
+           <td>31931₽</td>
+           <td>explanation</td>
+         </tr>
+<tr>
+           <td>Chic Couture</td>
+           <td>+3328492690</td>
+           <td>Iran</td>
+           <td>49988₽</td>
+           <td>library</td>
+         </tr>
+
+       </table>
+
+
