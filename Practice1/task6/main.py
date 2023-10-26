@@ -2,15 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-#params = {"limit" : "100"}
-#URL = "https://catfact.ninja/facts"
-#get = requests.get(URL, params)
+params = {"limit" : "100"}
+URL = "https://catfact.ninja/breeds"
+get = requests.get(URL, params)
 
 str_json = ""
-with open("facts.json") as file:
-    lines = file.readlines()
-    for line in lines:
-        str_json += line
+with open("facts1.json", "w") as file:
+     #lines = file.readlines()
+     # for line in lines:
+     #     str_json += line
+     file.write(json.dumps(get.json()))
 
 data = json.loads(str_json)
 data = data['data']
