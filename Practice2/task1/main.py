@@ -20,7 +20,7 @@ for i in range(0, size):
         matrix_stat["sum"] += matrix[i][j]
         if i == j:
             matrix_stat["sumMD"] += matrix[i][j]
-        if i + j == size:
+        if i + j == size - 1:
             matrix_stat["sumSD"] += matrix[i][j]
         matrix_stat["max"] = max(matrix_stat["max"], matrix[i][j])
         matrix_stat["min"] = min(matrix_stat["min"], matrix[i][j])
