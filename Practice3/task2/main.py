@@ -32,7 +32,7 @@ def handler(file_name):
 
 items = []
 for i in range(1, 39):
-    file_name = f"{i}.html"
+    file_name = f"data/{i}.html"
     items += handler(file_name)
 
 with open("2_result_all.json", 'w', encoding='utf-8') as file:
@@ -40,9 +40,9 @@ with open("2_result_all.json", 'w', encoding='utf-8') as file:
 
 with open('2_filtered_result.json', 'w', encoding='utf-8') as json_file:
     filtered_items = []
-    for phone in items:
-        if phone['title'].find('Samsung') != -1:
-            filtered_items.append(phone)
+    for pad in items:
+        if pad['title'].find('Blackberry') != -1:
+            filtered_items.append(pad)
     json.dump(filtered_items, json_file, ensure_ascii=False, indent=2)
 
 bonus_stat = {}
@@ -60,5 +60,5 @@ result_data = {
     'title_stat': title_stat
 }
 
-with open('3 work/task 2/result/2_stats.json', 'w', encoding='utf-8') as json_file:
+with open('2_stats.json', 'w', encoding='utf-8') as json_file:
     json.dump(result_data, json_file, ensure_ascii=False, indent=2)
