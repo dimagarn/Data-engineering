@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Фомальгаут 2493",
+    "constellation": "Дева",
+    "spectral_class": "D1Q",
+    "radius": 297545133,
+    "rotation": 884.21,
+    "age": [
+      4.56
+    ],
+    "distance": 6635777.94,
+    "absolute_magnitude": 6.09
+  },
+  {
+    "name": "Солнце 1391",
+    "constellation": "Дева",
+    "spectral_class": "D3I",
+    "radius": 958689876,
+    "rotation": 569.85,
+    "age": [
+      4.17
+    ],
+    "distance": 802823.31,
+    "absolute_magnitude": 8.3
+  },
+  {
+    "name": "Солнце 4430",
+    "constellation": "Дева",
+    "spectral_class": "T1G",
+    "radius": 366730286,
+    "rotation": 142.52,
+    "age": [
+      0.17
+    ],
+    "distance": 9467659.55,
+    "absolute_magnitude": 3.37
+  },
+  {
+    "name": "Солнце 9077",
+    "constellation": "Дева",
+    "spectral_class": "M7W",
+    "radius": 931584462,
+    "rotation": 153.7,
+    "age": [
+      3.18
+    ],
+    "distance": 9657112.12,
+    "absolute_magnitude": 5.64
+  },
+  {
+    "name": "Бетельгейзе 6500",
+    "constellation": "Дева",
+    "spectral_class": "F0H",
+    "radius": 31614783,
+    "rotation": 675.07,
+    "age": [
+      5.05
+    ],
+    "distance": 6012548.3,
+    "absolute_magnitude": 9.71
+  },
+  {
+    "name": "Хадар 1204",
+    "constellation": "Дева",
+    "spectral_class": "W6N",
+    "radius": 297892579,
+    "rotation": 665.63,
+    "age": [
+      0.3
+    ],
+    "distance": 8832706.55,
+    "absolute_magnitude": 4.46
+  },
+  {
+    "name": "Канопус 9678",
+    "constellation": "Дева",
+    "spectral_class": "K2M",
+    "radius": 687222871,
+    "rotation": 52.1,
+    "age": [
+      4.17
+    ],
+    "distance": 4620858.0,
+    "absolute_magnitude": 6.24
+  },
+  {
+    "name": "Хадар 6537",
+    "constellation": "Дева",
+    "spectral_class": "E8R",
+    "radius": 930618831,
+    "rotation": 673.66,
+    "age": [
+      4.82
+    ],
+    "distance": 3897175.72,
+    "absolute_magnitude": 1.64
+  },
+  {
+    "name": "Полярная звезда 1594",
+    "constellation": "Дева",
+    "spectral_class": "T6C",
+    "radius": 807187852,
+    "rotation": 482.65,
+    "age": [
+      2.86
+    ],
+    "distance": 9531812.85,
+    "absolute_magnitude": 3.88
+  },
+  {
+    "name": "Антарес 1522",
+    "constellation": "Дева",
+    "spectral_class": "X5K",
+    "radius": 334038660,
+    "rotation": 581.18,
+    "age": [
+      4.18
+    ],
+    "distance": 9857617.22,
+    "absolute_magnitude": 2.96
+  },
+  {
+    "name": "Фомальгаут 7584",
+    "constellation": "Дева",
+    "spectral_class": "U9P",
+    "radius": 735913136,
+    "rotation": 984.23,
+    "age": [
+      0.21
+    ],
+    "distance": 6520251.15,
+    "absolute_magnitude": 8.08
+  },
+  {
+    "name": "Альфа Центавра 7660",
+    "constellation": "Дева",
+    "spectral_class": "K1A",
+    "radius": 869878996,
+    "rotation": 336.88,
+    "age": [
+      1.87
+    ],
+    "distance": 7545262.83,
+    "absolute_magnitude": 3.58
+  },
+  {
+    "name": "Фомалхаут 3089",
+    "constellation": "Дева",
+    "spectral_class": "G9X",
+    "radius": 590733279,
+    "rotation": 804.84,
+    "age": [
+      3.82
+    ],
+    "distance": 3939123.36,
+    "absolute_magnitude": 5.1
+  },
+  {
+    "name": "Солнце 7409",
+    "constellation": "Дева",
+    "spectral_class": "Z7F",
+    "radius": 180662062,
+    "rotation": 125.53,
+    "age": [
+      2.24
+    ],
+    "distance": 9852916.66,
+    "absolute_magnitude": 1.99
+  },
+  {
+    "name": "Акрукс 1832",
+    "constellation": "Дева",
+    "spectral_class": "S5F",
+    "radius": 778194766,
+    "rotation": 672.69,
+    "age": [
+      3.71
+    ],
+    "distance": 5667355.01,
+    "absolute_magnitude": 4.88
+  },
+  {
+    "name": "Фомалхаут 2971",
+    "constellation": "Дева",
+    "spectral_class": "F2A",
+    "radius": 915339019,
+    "rotation": 652.96,
+    "age": [
+      1.3
+    ],
+    "distance": 8975289.48,
+    "absolute_magnitude": 3.59
+  },
+  {
+    "name": "Фомальгаут 3623",
+    "constellation": "Дева",
+    "spectral_class": "L7G",
+    "radius": 597376273,
+    "rotation": 684.89,
+    "age": [
+      2.38
+    ],
+    "distance": 5266295.11,
+    "absolute_magnitude": 9.37
+  },
+  {
+    "name": "Фомалхаут 8742",
+    "constellation": "Дева",
+    "spectral_class": "G1Q",
+    "radius": 921845730,
+    "rotation": 737.54,
+    "age": [
+      0.36
+    ],
+    "distance": 6326968.89,
+    "absolute_magnitude": 8.16
+  },
+  {
+    "name": "Полярная звезда 2108",
+    "constellation": "Дева",
+    "spectral_class": "Z5W",
+    "radius": 626398576,
+    "rotation": 828.0,
+    "age": [
+      1.63
+    ],
+    "distance": 9937709.03,
+    "absolute_magnitude": 9.87
+  },
+  {
+    "name": "Ригель 5404",
+    "constellation": "Дева",
+    "spectral_class": "O5F",
+    "radius": 305951252,
+    "rotation": 892.13,
+    "age": [
+      5.4
+    ],
+    "distance": 1321954.14,
+    "absolute_magnitude": 5.62
+  },
+  {
+    "name": "Вега 5030",
+    "constellation": "Дева",
+    "spectral_class": "Q9O",
+    "radius": 669027324,
+    "rotation": 446.12,
+    "age": [
+      0.8
+    ],
+    "distance": 1028608.55,
+    "absolute_magnitude": 9.22
+  },
+  {
+    "name": "Бетельгейзе 1520",
+    "constellation": "Дева",
+    "spectral_class": "Q4Q",
+    "radius": 116805009,
+    "rotation": 460.9,
+    "age": [
+      3.14
+    ],
+    "distance": 5401106.6,
+    "absolute_magnitude": 5.76
+  },
+  {
+    "name": "Полярная звезда 1072",
+    "constellation": "Дева",
+    "spectral_class": "K5C",
+    "radius": 545101554,
+    "rotation": 585.25,
+    "age": [
+      1.66
+    ],
+    "distance": 2595047.76,
+    "absolute_magnitude": 2.84
+  },
+  {
+    "name": "Фомалхаут 7427",
+    "constellation": "Дева",
+    "spectral_class": "W1X",
+    "radius": 805405372,
+    "rotation": 206.91,
+    "age": [
+      5.02
+    ],
+    "distance": 7119926.85,
+    "absolute_magnitude": 3.13
+  },
+  {
+    "name": "Хадар 5650",
+    "constellation": "Дева",
+    "spectral_class": "H5W",
+    "radius": 669029454,
+    "rotation": 996.31,
+    "age": [
+      2.29
+    ],
+    "distance": 6843694.49,
+    "absolute_magnitude": 8.49
+  },
+  {
+    "name": "Бетельгейзе 3497",
+    "constellation": "Дева",
+    "spectral_class": "U6J",
+    "radius": 713033745,
+    "rotation": 293.44,
+    "age": [
+      3.42
+    ],
+    "distance": 5219043.56,
+    "absolute_magnitude": 7.8
+  },
+  {
+    "name": "Ригель 1245",
+    "constellation": "Дева",
+    "spectral_class": "Q8X",
+    "radius": 524940200,
+    "rotation": 383.04,
+    "age": [
+      3.95
+    ],
+    "distance": 1427706.95,
+    "absolute_magnitude": 3.73
+  },
+  {
+    "name": "Фомальгаут 1053",
+    "constellation": "Дева",
+    "spectral_class": "K5X",
+    "radius": 400681903,
+    "rotation": 399.72,
+    "age": [
+      2.3
+    ],
+    "distance": 2821731.41,
+    "absolute_magnitude": 4.74
+  },
+  {
+    "name": "Вега 1670",
+    "constellation": "Дева",
+    "spectral_class": "L2O",
+    "radius": 903597687,
+    "rotation": 360.03,
+    "age": [
+      2.1
+    ],
+    "distance": 4973316.94,
+    "absolute_magnitude": 5.96
+  },
+  {
+    "name": "Альфа Центавра 4572",
+    "constellation": "Дева",
+    "spectral_class": "S9H",
+    "radius": 259359013,
+    "rotation": 283.83,
+    "age": [
+      4.16
+    ],
+    "distance": 5559791.64,
+    "absolute_magnitude": 8.45
+  },
+  {
+    "name": "Альфа Центавра 4721",
+    "constellation": "Дева",
+    "spectral_class": "N8V",
+    "radius": 791590833,
+    "rotation": 844.33,
+    "age": [
+      1.27
+    ],
+    "distance": 6907712.68,
+    "absolute_magnitude": 1.17
+  },
+  {
+    "name": "Хадар 3289",
+    "constellation": "Дева",
+    "spectral_class": "P0U",
+    "radius": 570674088,
+    "rotation": 954.53,
+    "age": [
+      4.27
+    ],
+    "distance": 8262874.27,
+    "absolute_magnitude": 1.32
+  },
+  {
+    "name": "Альфа Центавра 8533",
+    "constellation": "Дева",
+    "spectral_class": "L2M",
+    "radius": 845656507,
+    "rotation": 228.53,
+    "age": [
+      0.67
+    ],
+    "distance": 8645583.11,
+    "absolute_magnitude": 6.97
+  },
+  {
+    "name": "Солнце 5429",
+    "constellation": "Дева",
+    "spectral_class": "W3C",
+    "radius": 332634404,
+    "rotation": 980.75,
+    "age": [
+      1.86
+    ],
+    "distance": 3417729.3,
+    "absolute_magnitude": 1.12
+  },
+  {
+    "name": "Хадар 9724",
+    "constellation": "Дева",
+    "spectral_class": "W8X",
+    "radius": 120182318,
+    "rotation": 216.98,
+    "age": [
+      1.42
+    ],
+    "distance": 5370660.29,
+    "absolute_magnitude": 2.22
+  },
+  {
+    "name": "Солнце 7112",
+    "constellation": "Дева",
+    "spectral_class": "E5L",
+    "radius": 544200834,
+    "rotation": 88.73,
+    "age": [
+      1.59
+    ],
+    "distance": 9821339.95,
+    "absolute_magnitude": 9.0
+  },
+  {
+    "name": "Альфа Центавра 5071",
+    "constellation": "Дева",
+    "spectral_class": "N7F",
+    "radius": 974603764,
+    "rotation": 424.28,
+    "age": [
+      1.29
+    ],
+    "distance": 8938779.45,
+    "absolute_magnitude": 9.32
+  },
+  {
+    "name": "Канопус 3410",
+    "constellation": "Дева",
+    "spectral_class": "N9J",
+    "radius": 830995913,
+    "rotation": 370.06,
+    "age": [
+      4.83
+    ],
+    "distance": 7344611.95,
+    "absolute_magnitude": 8.42
+  },
+  {
+    "name": "Фомальгаут 3273",
+    "constellation": "Дева",
+    "spectral_class": "T7Q",
+    "radius": 312455856,
+    "rotation": 89.2,
+    "age": [
+      3.94
+    ],
+    "distance": 5874934.88,
+    "absolute_magnitude": 6.88
+  },
+  {
+    "name": "Антарес 7709",
+    "constellation": "Дева",
+    "spectral_class": "F0D",
+    "radius": 760199319,
+    "rotation": 141.31,
+    "age": [
+      2.1
+    ],
+    "distance": 3896891.19,
+    "absolute_magnitude": 6.2
+  },
+  {
+    "name": "Солнце 1366",
+    "constellation": "Дева",
+    "spectral_class": "S7W",
+    "radius": 750277348,
+    "rotation": 407.63,
+    "age": [
+      3.66
+    ],
+    "distance": 9037387.22,
+    "absolute_magnitude": 9.89
+  },
+  {
+    "name": "Акрукс 1249",
+    "constellation": "Дева",
+    "spectral_class": "S1D",
+    "radius": 399648210,
+    "rotation": 547.62,
+    "age": [
+      4.08
+    ],
+    "distance": 8464012.8,
+    "absolute_magnitude": 8.03
+  },
+  {
+    "name": "Акрукс 1089",
+    "constellation": "Дева",
+    "spectral_class": "M9L",
+    "radius": 394423020,
+    "rotation": 194.75,
+    "age": [
+      2.69
+    ],
+    "distance": 8100171.88,
+    "absolute_magnitude": 3.98
+  },
+  {
+    "name": "Полярная звезда 3439",
+    "constellation": "Дева",
+    "spectral_class": "Y1N",
+    "radius": 753654505,
+    "rotation": 425.21,
+    "age": [
+      3.36
+    ],
+    "distance": 4174041.08,
+    "absolute_magnitude": 8.34
+  },
+  {
+    "name": "Альфа Центавра 8720",
+    "constellation": "Дева",
+    "spectral_class": "Z3O",
+    "radius": 96391084,
+    "rotation": 196.99,
+    "age": [
+      4.91
+    ],
+    "distance": 9842854.0,
+    "absolute_magnitude": 6.87
+  },
+  {
+    "name": "Хадар 3420",
+    "constellation": "Дева",
+    "spectral_class": "N0C",
+    "radius": 668407643,
+    "rotation": 909.04,
+    "age": [
+      0.38
+    ],
+    "distance": 5437310.14,
+    "absolute_magnitude": 4.33
+  },
+  {
+    "name": "Канопус 8001",
+    "constellation": "Дева",
+    "spectral_class": "G5V",
+    "radius": 48313268,
+    "rotation": 482.13,
+    "age": [
+      1.75
+    ],
+    "distance": 7630620.13,
+    "absolute_magnitude": 4.98
+  },
+  {
+    "name": "Бетельгейзе 2898",
+    "constellation": "Дева",
+    "spectral_class": "S7K",
+    "radius": 4120394,
+    "rotation": 454.31,
+    "age": [
+      3.07
+    ],
+    "distance": 5643440.19,
+    "absolute_magnitude": 3.2
+  },
+  {
+    "name": "Хадар 7263",
+    "constellation": "Дева",
+    "spectral_class": "A2S",
+    "radius": 2620311,
+    "rotation": 180.62,
+    "age": [
+      1.7
+    ],
+    "distance": 8844136.98,
+    "absolute_magnitude": 8.1
+  },
+  {
+    "name": "Канопус 4470",
+    "constellation": "Дева",
+    "spectral_class": "P1I",
+    "radius": 761139126,
+    "rotation": 984.14,
+    "age": [
+      4.49
+    ],
+    "distance": 3352210.06,
+    "absolute_magnitude": 2.0
+  },
+  {
+    "name": "Акрукс 6551",
+    "constellation": "Дева",
+    "spectral_class": "Q5C",
+    "radius": 637982063,
+    "rotation": 930.08,
+    "age": [
+      3.54
+    ],
+    "distance": 612856.6,
+    "absolute_magnitude": 6.76
+  }
+]
