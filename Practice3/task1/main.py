@@ -25,13 +25,13 @@ def handle_file(file_name):
 
         return item
 
-min = handle_file("1.html")["rating"]
+min = handle_file("data/1.html")["rating"]
 max = min
 sum = 0
 count = 0
 items = []
 for i in range(1, 999):
-    file_name = f"{i}.html"
+    file_name = f"data/{i}.html"
     result = handle_file(file_name)
     items.append(result)
 
