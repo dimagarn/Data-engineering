@@ -21,9 +21,10 @@ def handle_file(file_name):
         item["description"] = site.find_all("p", string=re.compile("Описание"))[0].get_text().replace("Описание", "").strip()
         item["img_link"] = site.find("img")["src"]
         item["rating"] = float(site.find_all("span", string=re.compile("Рейтинг:"))[0].get_text().replace("Рейтинг:", "").strip())
-        item["views"] = site.find_all("span", string=re.compile("Просмотры:"))[0].get_text().replace("Просмотры:", "").strip()
+        item["views"] = int(site.find_all("span", string=re.compile("Просмотры:"))[0].get_text().replace("Просмотры:", "").strip())
 
         return item
+
 
 min = handle_file("data/1.html")["rating"]
 max = min
@@ -53,16 +54,16 @@ for book in items:
     if book["rating"] >= 4:
         filtered_items.append(book)
 
-print("Количество книг:", len(items))
-print("Количество книг с рейтингом выше 4:", len(filtered_items))
-print("Частота метки категории роман:", count)
-
 statistic = dict()
 
 statistic["Минимальный рейтинг"] = min
 statistic["Максимальный рейтинг"] = max
 statistic["Суммарный рейтинг"] = sum
 statistic["Средний рейтинг"] = avr
+
+statistic["Количество книг:"] = len(items)
+statistic["Количество книг с рейтингом выше 4:"] = len(filtered_items)
+statistic["Частота метки категории роман:"] = count
 
 with open("stat_1.json", "w", encoding="UTF-8") as f:
     f.write(json.dumps(statistic, ensure_ascii=False))

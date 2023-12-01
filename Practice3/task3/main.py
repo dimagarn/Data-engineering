@@ -17,7 +17,7 @@ def handler(file_name):
         item["spectral_class"] = root.find("spectral-class").text.strip()
         item["radius"] = int(root.find("radius").text.strip())
         item["rotation"] = float(root.find("rotation").text.strip().split()[0])
-        item["age"] = float(root.find("age").text.strip().split()[0]),
+        item["age"] = float(root.find("age").text.strip().split()[0])
         item["distance"] = float(root.find("distance").text.strip().split()[0])
         item["absolute_magnitude"] = float(root.find("absolute-magnitude").text.strip().split()[0])
         return item

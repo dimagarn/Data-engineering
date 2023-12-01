@@ -31,13 +31,13 @@ def handler(file_name):
             new_element = clothing_element.find('new')
 
             if exclusive_element is not None:
-                item_data['exclusive'] = exclusive_element.text.strip()
+                item_data['exclusive'] = True if exclusive_element.text.strip() == "yes" else False
 
             if sporty_element is not None:
-                item_data['sporty'] = sporty_element.text.strip()
+                item_data['sporty'] = True if sporty_element.text.strip() == "yes" else False
 
             if new_element is not None:
-                item_data['new'] = new_element.text.strip()
+                item_data['new'] = True if new_element.text.strip() == "+" else False
 
             clothing_items.append(item_data)
         return clothing_items
