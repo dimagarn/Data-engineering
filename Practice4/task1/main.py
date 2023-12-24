@@ -70,13 +70,13 @@ def get_freq_by_century(db):
         print(dict(row))
 
 
-def filter_by_year(db, min_year, limit=10):
+def filter_by_year(db, min_year, limit=14):
     cursor = db.cursor()
     items = []
     res = cursor.execute("""
-            SELECT title, published_year, views FROM books
+            SELECT title, published_year, rating FROM books
             WHERE published_year > ?
-            ORDER BY views DESC
+            ORDER BY rating DESC
             LIMIT ?
             """, [min_year, limit])
     for row in res.fetchall():
@@ -87,10 +87,10 @@ def filter_by_year(db, min_year, limit=10):
     return items
 
 
-def get_top_by_views(db, limit):
+def get_top_by_rating(db, limit):
     cursor = db.cursor()
 
-    res = cursor.execute("SELECT title, author, views FROM books ORDER BY views DESC LIMIT ?", [limit])
+    res = cursor.execute("SELECT title, author, rating FROM books ORDER BY rating DESC LIMIT ?", [limit])
     items = []
     for row in res.fetchall():
         item = dict(row)
@@ -98,6 +98,7 @@ def get_top_by_views(db, limit):
 
     cursor.close()
     return items
+
 
 def connect_to_db(file_name):
     connection = sqlite3.connect(file_name)
@@ -108,15 +109,15 @@ def connect_to_db(file_name):
 items = parse_data('task_1_var_04_item.csv')
 db = connect_to_db('db')
 
-sorted_items = get_top_by_views(db, 10)
+sorted_items = get_top_by_rating(db, 14)
 get_stat_by_pages(db)
 get_freq_by_century(db)
-sorted_items_with_year = filter_by_year(db, 1955)
+sorted_items_with_year = filter_by_year(db, 1980)
 
 insert_data(db, items)
 
-with open("top_10_views.json", "w", encoding="utf-8") as r_json:
+with open("top_10_rating.json", "w", encoding="utf-8") as r_json:
     r_json.write(json.dumps(sorted_items, ensure_ascii=False))
 
-with open("top_10_views_with_year.json", "w", encoding="utf-8") as r_json:
-    r_json.write(json.dumps(sorted_items_with_year, ensure_ascii=False))  
+with open("top_10_rating_with_year.json", "w", encoding="utf-8") as r_json:
+    r_json.write(json.dumps(sorted_items_with_year, ensure_ascii=False))
